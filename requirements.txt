@@ -1,2 +1,6 @@
 streamlit
 selenium
+weaviate-client
+numpy
+gensim
+weaviate
