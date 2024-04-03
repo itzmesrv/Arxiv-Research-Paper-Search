@@ -1,6 +1,2 @@
 streamlit
 selenium
-weaviate-client==4.5.4
-numpy
-gensim
-weaviate
